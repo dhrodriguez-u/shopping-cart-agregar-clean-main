@@ -1,3 +1,3 @@
 # shopping-cart-agregar-clean-main
 
-Se agrego el casos de Confirmar compra.
+Se agrego el caso de uso de Confirmar compra.
